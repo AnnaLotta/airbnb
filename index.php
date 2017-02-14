@@ -19,7 +19,7 @@ if (file_exists('config.php')) {
 
 // Project constants
 define('PROJECT_NAME', 'halo');
-define('PROJECT_NATIVE_LANGUAGE', 'en');
+define('PROJECT_NATIVE_LANGUAGE', 'en|et');
 define('DEFAULT_CONTROLLER', 'welcome');
 
 // Load app
